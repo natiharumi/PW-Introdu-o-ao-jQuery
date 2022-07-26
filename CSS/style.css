@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+* {
+    font-family: 'Edu TAS Beginner', cursive;
+    color: blueviolet;
+    font-size: 1em;
+}
+
+.font-1-5 {
+    font-size: 1.5em;
+    color: cyan;
+}
+
+.font-3-0 {
+    font-size: 3.0em;
+    color: rgb(255, 0, 0);
+}
+
+.font-6-0 {
+    font-size: 6.0em;
+    color: black;
+}
